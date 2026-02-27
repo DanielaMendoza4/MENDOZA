@@ -7,6 +7,12 @@
 - Programacion basica en python.
 - Uso de entornos vituales(Google colab).
 - Instalación y gestión de librerías en python.
+
+## HERRAMIENTAS QUE UTILIZO:
+
+- Visual Studio Code
+- Google colab
+- Mysql
   
 ## LENGUAJES DE PROGRAMACIÓN:
 
